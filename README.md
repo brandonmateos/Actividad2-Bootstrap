@@ -1,2 +1,2 @@
-# Actividad2-Bootstrap
-Actividad 2 - Bootstrap
+# Practica B1 - Estructura inicial
+Practica B1 - Estructura inicial
